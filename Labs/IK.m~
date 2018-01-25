@@ -1,0 +1,9 @@
+
+final_pos = [.4, .6, -2.5, 1]';
+current_pos = [0 0 0 1];
+
+
+
+% error threshold
+th = 0.05;
+
